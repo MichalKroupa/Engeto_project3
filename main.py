@@ -18,6 +18,8 @@ def main(odkaz, name):
 
     # Pošlu request na danou url
     odpoved = requests.get(odkaz)
+    print("Stahuji data z url", odkaz)
+    print("Ukládám do souboru", name)
 
     # BeautifulSoup vytáhne html
     soup = BeautifulSoup(odpoved.text, "html.parser")
@@ -53,6 +55,7 @@ def main(odkaz, name):
 
     # Zavřu soubor
     f.close()
+    print("Ukončuji Scraper")
 
 # Funkce kterou vypreparuji url z tagu pro číslo města, vstupní parametr je celý tag s číslem města
 def seber_url(tag):
