@@ -20,8 +20,8 @@ Ukládám do souboru Prostejov.csv
 Ukončuji Scraper
 
 ČÁSTEČNÝ VÝSTUP
-Číslo	 Název	      Voliči v seznamu	 Vydané obálky	Volební účast v %	Odevzdané obálky	Platné hlasy
-506761 Alojzov	      205	             145	            70,73	            145	            144
+Číslo	 Název	         Voliči v seznamu	 Vydané obálky	Volební účast v %	Odevzdané obálky	Platné hlasy
+506761 Alojzov	         205	             145	            70,73	            145	            144
 589268 Bedihošť	      834	             527	            63,19	            527	            524
 589276 Bílovice-Lutotín	431	             279	            64,73	            279	            275
    
