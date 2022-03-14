@@ -2,7 +2,7 @@
 Třetí projekt na Python Akademii od Engeta
 
 POPIS PROJEKTU
-Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017, odkaz zde
+Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017, odkaz zde https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
 
 INSTALACE KNIHOVEN
